@@ -4,6 +4,7 @@
 # Can be either a string :
 requestInfoReplyComment: >
   We would appreciate it if you could provide us with more info about this issue/pr!
+  changing a default message to something useful message 
 
 # Or an array:
 # requestInfoReplyComment:
